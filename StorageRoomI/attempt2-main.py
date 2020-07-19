@@ -3,7 +3,7 @@ w = int(input()) # Width  ""
 h = int(input()) # Height ""
 
 v = l*w*h
-print(f"The volume is {v}")
+# print(f"The volume is {v}")
 
 c = 2*((l*w)+(l*h)+(h*w)) # Surface Area and cost
 
