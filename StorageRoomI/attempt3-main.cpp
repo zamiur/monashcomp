@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    std::cin >> 
+    int v,c;
+    std::cin >> v
+    c = 
 }
