@@ -1,5 +1,8 @@
 # Monash Competitive Programming - Work Folder
 
-This is my code and attempts.
+### 2020 Winter Training 2 (DP on Tree and STL)                
 
-I will put the puzzles shortly.
+**AtCoder Grand Contest 001**
+
+[E- Shorten Diameter](https://vjudge.net/problem/AtCoder-agc001_c)
+[Solution](https://github.com/zamiur/monashcomp/blob/master/WinterTraining2/ShortenDiameter/attempt1-main.cpp)
